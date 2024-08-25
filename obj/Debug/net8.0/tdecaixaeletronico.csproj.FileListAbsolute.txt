@@ -1,0 +1,14 @@
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\bin\Debug\net8.0\tdecaixaeletronico.exe
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\bin\Debug\net8.0\tdecaixaeletronico.deps.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\bin\Debug\net8.0\tdecaixaeletronico.runtimeconfig.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\bin\Debug\net8.0\tdecaixaeletronico.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\bin\Debug\net8.0\tdecaixaeletronico.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\refint\tdecaixaeletronico.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\tdecaixaeletronico.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tdecaixaeletronico\obj\Debug\net8.0\ref\tdecaixaeletronico.dll
